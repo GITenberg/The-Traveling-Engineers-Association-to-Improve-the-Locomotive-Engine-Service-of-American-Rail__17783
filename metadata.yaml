@@ -1,0 +1,28 @@
+_repo: The-Traveling-Engineers-Association-to-Improve-the-Locomotive-Engine-Service-of-American-Rail__17783
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Traveling Engineers' Association
+    alias: Association, Traveling Engineers'
+    gutenberg_agent_id: '37410'
+    url: http://www.gutenberg.org/2009/agents/37410
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2006-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17783'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Locomotives -- Handbooks, manuals, etc.'
+- !lcc 'TJ'
+title: "The Traveling Engineers' Association to Improve the Locomotive Engine Service\
+  \ of American Railroads\r\nExamination Questions and Answers for Firemen for Promotion\
+  \ and New Men for Employment"
+url: http://www.gutenberg.org/ebooks/17783
